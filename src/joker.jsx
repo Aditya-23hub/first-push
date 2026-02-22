@@ -11,7 +11,7 @@ export default function JokerState (){
    
     return(
         <div>
-            <h3>Joker!</h3>
+            <h3>Joker!  how are you </h3>
            <h3>{ Joke.setup}</h3>
            <h3>{ Joke.punchline}</h3>
 <button onClick={getNewJoke}> click me!</button>
